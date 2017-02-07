@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel ReactJs Boilerplate
                 </div>
 
                 <div class="links">
